@@ -1,0 +1,1 @@
+We send information from ESP32 (master) to arduino (slave) using I2C
